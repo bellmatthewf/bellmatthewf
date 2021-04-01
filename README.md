@@ -1,6 +1,6 @@
 # Matt Bell
 
-Howdy! My name is Matt. I'm a Software Engineer at [PartnerStack](https://partnerstack.com/), a company that powers partner programs for tech companies.
+Howdy! My name is Matt. I'm a Software Engineer at [PartnerStack](https://partnerstack.com/), a Toronto startup that powers partner programs for tech companies.
 
 ## Get in touch
 
