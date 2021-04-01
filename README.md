@@ -5,5 +5,5 @@ Howdy! My name is Matt. I'm a Software Engineer at [PartnerStack](http://partner
 
 ### Get in touch
 
-You can email me at *[bell.matthewf@gmail.com](mailto:bell.matthewf@gmail.com)*
-Or message me on *[LinkedIn](https://www.linkedin.com/in/matthewfbell/)*
+You can email me at **[bell.matthewf@gmail.com](mailto:bell.matthewf@gmail.com)**<br>
+Or message me on **[LinkedIn](https://www.linkedin.com/in/matthewfbell/)**
