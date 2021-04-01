@@ -2,9 +2,9 @@
 
 Howdy! My name is Matt :wave:. I'm a Software Engineer at [PartnerStack](https://partnerstack.com/), a Toronto startup that powers partner programs for tech companies.
 
-Unfortunately, there isn't much to see here. All of the work I've done is in private repositores.
+Unfortunately, there isn't much to see here. All of the work that I've done is in private repositories.
 
-Feel free to check out my analytics portfolio [website](https://www.matthewbellanalytics.com/) from when I was working as a data analyst :smile:
+Feel free to check out my old analytics portfolio [website](https://www.matthewbellanalytics.com/) from when I was working as a data analyst :smile:
 
 ## Get in touch
 
