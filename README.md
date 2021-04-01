@@ -4,7 +4,7 @@ Howdy! My name is Matt :wave:. I'm a Software Engineer at [PartnerStack](https:/
 
 Unfortunately, there isn't much to see here. All of the work that I've done is in private repositories.
 
-Feel free to check out my old analytics portfolio [website](https://www.matthewbellanalytics.com/) from when I was working as a data analyst :smile:
+Feel free to check out my old analytics portfolio [website](https://www.matthewbellanalytics.com/) from when I was working as a data analyst though :smile:
 
 ## Get in touch
 
