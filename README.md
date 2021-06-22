@@ -8,3 +8,6 @@ Unfortunately, there isn't much to see here. All of the recent work that I've do
 
 You can email me at **[hi@matthewbell.dev](mailto:hi@matthewbell.dev)**<br>
 Or message me on **[LinkedIn](https://www.linkedin.com/in/matthewfbell/)**
+
+<!-- visitor badge-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id==bellmatthewf.bellmatthewf)
