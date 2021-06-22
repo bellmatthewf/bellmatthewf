@@ -6,5 +6,5 @@ Unfortunately, there isn't much to see here. All of the recent work that I've do
 
 ## Get in touch
 
-You can email me at **[bell.matthewf@gmail.com](mailto:bell.matthewf@gmail.com)**<br>
+You can email me at **[bell.matthewf@gmail.com](mailto:hi@matthewbell.dev)**<br>
 Or message me on **[LinkedIn](https://www.linkedin.com/in/matthewfbell/)**
