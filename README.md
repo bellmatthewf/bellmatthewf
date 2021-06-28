@@ -2,7 +2,7 @@
 
 Howdy! My name is Matt :wave:. I'm a Software Engineer at [PartnerStack](https://partnerstack.com/), a Toronto startup that powers partner programs for tech companies.
 
-Check out my portfolio website [here](https://www.matthewbell.dev)!
+Check out my website [here](https://www.matthewbell.dev)!
 
 ## Get in touch
 
