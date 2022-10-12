@@ -4,7 +4,7 @@ Howdy! My name is Matt :wave:. I'm a full stack Software Engineer in Toronto, Ca
 
 Check out my personal project website [here](https://www.matthewbell.dev)!
 
-The side project I'm most proud of right now is [FantazScores.com](https://www.fantazscores.com)
+My biggest side project right now is [FantazScores.com](https://www.fantazscores.com)
 
 ## Get in touch
 
