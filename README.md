@@ -1,6 +1,6 @@
 # Matt Bell
 
-Howdy! My name is Matt :wave:. I'm a full stack Software Engineer in Toronto, Canada.
+I'm a full stack Software Engineer living in Toronto, Canada.
 
 Check out my website [here](https://www.matthewbell.dev)!
 
