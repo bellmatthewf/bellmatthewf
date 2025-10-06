@@ -1,7 +1,7 @@
 # Matt Bell
 
-I'm a full stack Software Engineer living in Toronto, Canada.
+Software Engineer in Toronto, Canada.
 
-Check out my website [here](https://www.matthewbell.dev)!
+Portfolio [website](https://www.matthewbell.dev)!
 
-My biggest side project is [FantaZscores.com](https://www.fantazscores.com)
+Biggest side project - [FantaZscores.com](https://www.fantazscores.com)
