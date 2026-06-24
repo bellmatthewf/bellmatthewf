@@ -1,5 +1,3 @@
-# Matt Bell
-
 Software Engineer in Toronto, Canada.
 
 [Portfolio](https://www.matthewbell.dev)<br/>
